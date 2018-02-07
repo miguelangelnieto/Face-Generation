@@ -1,4 +1,4 @@
-# Image Classification
+# Face Generation
 
 Part of the [**Deep Learning Nanodegree Program.**](https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101)
 
